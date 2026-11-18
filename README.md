@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./header2.jpeg)
 <h2 align="left">Haii 👋! My name is Rj and I'm a Programmer from Poland!</h2>
 
 ###
